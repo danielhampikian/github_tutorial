@@ -37,8 +37,6 @@ body {
 
 .team-member, .team-member .team-img {
     position: relative;
-    border-radius: 50%;
-
 }
 .team-member {
     overflow: hidden;
