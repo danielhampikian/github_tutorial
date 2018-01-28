@@ -37,13 +37,9 @@ body {
 
 .team-member, .team-member .team-img {
     position: relative;
-
 }
 .team-member {
     overflow: hidden;
-}
-.team-member, .team-member .team-img {
-    position: relative;
 }
 
 .team-hover {
